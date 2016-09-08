@@ -38,7 +38,7 @@ Although not actually clear what the attack is with forward slash.  Oh well.
 
 Pros:
 * works on the json stream, does not need to know about the objects or uses reflection.
-* works on the so any json encoder can be user.  This just filters the result.
+* any json encoder can be used.  This just filters the result.
 
 
 Cons:
